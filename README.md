@@ -1,2 +1,2 @@
 # TIL_Romuru
-writing what Learn today, Thinking something, More dreaming 
+writing what Learn today, Think something, More dreaming 
